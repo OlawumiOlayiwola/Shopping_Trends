@@ -1,6 +1,19 @@
 # Shopping_Trends
 This repository contains the analysis of the shopping_trends.csv dataset, focusing on customer segmentation, sales forecasting, and customer retention. The analysis includes data preprocessing, exploratory data analysis, and the development of predictive models.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](data-cleaning-preparation)
+- [Data Analysis](#data-analysis)
+- [Insights](#insights)
+- [Results](#results)
+- [Limitations](#limitations)
+- [Conclusion](#conclusion)
+- [Contributing](#contributing)
+
+
 ### Project Overview
 This project aims to analyze consumer purchasing patterns, identify popular product categories, and develop predictive models for sales forecasting and customer retention. The insights gained from this analysis can help businesses make data-driven decisions to improve customer satisfaction and increase sales.
 
