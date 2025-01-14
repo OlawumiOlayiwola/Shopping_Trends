@@ -11,7 +11,7 @@ This repository contains the analysis of the shopping_trends.csv dataset, focusi
 - [Results](#results)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 
 
 ### Project Overview
@@ -63,6 +63,6 @@ The dataset does not include actual purchase dates. For analysis purposes, rando
 ### Conclusion
 The analysis provided valuable insights into consumer purchasing patterns and helped develop effective strategies for customer segmentation, sales forecasting, and customer retention. These insights can be used to enhance customer satisfaction and drive business growth.
 
-### Contributing
+### Contributions
 Contributions are welcome! Please open an issue or submit a pull request for improvements or suggestions.
 
