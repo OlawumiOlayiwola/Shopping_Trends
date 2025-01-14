@@ -35,15 +35,17 @@ A random forest classifier model was developed to predict customer retention bas
 Predictive Analysis
 - Sales Forecasting: Exponential Smoothing method forecasts the total purchase amount for the next 12 months.
 - Customer Retention: A random forest classifier predicts customer retention based on review ratings.
-Customer Segmentation and Personalization Strategies
-Customer Segmentation:
-KMeans clustering segments customers based on age, purchase amount, review rating, and previous purchases.
-Personalization Strategies:
-Cluster 0: Offer loyalty rewards and personalized discounts to retain high-value customers.
-Cluster 1: Provide targeted promotions and incentives to encourage more frequent purchases.
-Cluster 2: Improve product quality and customer service to enhance satisfaction.
-Cluster 3: Engage with customers through personalized recommendations and exclusive offers.
+- Customer Segmentation and Personalization Strategies
+    - Customer Segmentation: KMeans clustering segments customers based on age, purchase amount, review rating, and previous purchases.
+    - Personalization Strategies:
+         - Cluster 0: Offer loyalty rewards and personalized discounts to retain high-value customers.
+         - Cluster 1: Provide targeted promotions and incentives to encourage more frequent purchases.
+         - Cluster 2: Improve product quality and customer service to enhance satisfaction.
+         - Cluster 3: Engage with customers through personalized recommendations and exclusive offers.
 
+### Limitations
+
+The dataset does not include actual purchase dates. For analysis purposes, random purchase dates were generated. This limits the ability to perform accurate time series analysis and understand trends over specific periods.
 
 ### Conclusion
 The analysis provided valuable insights into consumer purchasing patterns and helped develop effective strategies for customer segmentation, sales forecasting, and customer retention. These insights can be used to enhance customer satisfaction and drive business growth.
